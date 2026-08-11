@@ -56,7 +56,10 @@ Bayero University Kano
 
 ## 📊 GitHub Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Reginah1&hide_border=true)](https://github.com/Reginah1)
+[![Fatimah's GitHub Stats](https://github-stats-extended.vercel.app/api?username=Reginah1\&show_icons=true\&hide_border=true)](https://github.com/Reginah1)
+
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Reginah1\&layout=compact\&hide_border=true)](https://github.com/Reginah1)
+
 
 ---
 

@@ -2,6 +2,7 @@
 <p align="center">
   <img src="./Github-banner4.png" alt="Fatimah Bashir - Software Engineer and Frontend Developer" width="100%">
 </p>
+
 # Hi, I'm Fatimah Bashir 👋🏽
 
 ### Software Engineer | Frontend Developer

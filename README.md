@@ -1,18 +1,51 @@
-                    Hi, I'm Fatimah 👋
-              Software Engineer | Frontend Developer
+# Hi, I'm Fatimah 👋🏽
 
-   I build clean, responsive and user-friendly web applications.
+Software Engineer · Frontend Developer · Nigeria 🇳🇬
 
-        React • Next.js • TypeScript • Tailwind CSS
+I build clean, responsive web applications and enjoy turning ideas
+into useful products.
 
-   🎓 Software Engineering | First Class Honors
-   💻 Frontend Developer
-   🌱 Exploring Backend Engineering & Fintech
-   📍 Nigeria
+[https://www.linkedin.com/in/fatimah-bashir-5540972b9]
 
-- 📫 How to reach me fateemahbasheer4@gmail.com
+---
 
-<!---
-Reginah1/Reginah1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👩🏽‍💻 About Me
+
+🎓 First Class Software Engineering graduate
+💻 Frontend Developer
+⚛️ React · Next.js · TypeScript
+🌱 Exploring backend development & fintech
+
+---
+
+### 🛠️ Technologies
+
+React   Next.js   TypeScript   JavaScript
+Tailwind CSS   Python   FastAPI   PostgreSQL
+Supabase   Git   GitHub
+
+---
+
+### 🚀 Featured Project
+
+[ Open Source Portfolio Website Generator ]
+
+---
+
+### 🎓 Achievement
+
+🏆 B.Sc. Software Engineering
+   First Class Honors
+   Bayero University Kano
+
+---
+
+### 📊 GitHub
+
+[GitHub stats]
+
+---
+
+### 🤝 Let's Connect
+
+LinkedIn · Twitter · Email

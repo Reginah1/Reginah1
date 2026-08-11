@@ -1,7 +1,15 @@
-- 👋 Hi, I’m @Reginah1
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on it
+                    Hi, I'm Fatimah 👋
+              Software Engineer | Frontend Developer
+
+   I build clean, responsive and user-friendly web applications.
+
+        React • Next.js • TypeScript • Tailwind CSS
+
+   🎓 Software Engineering | First Class Honors
+   💻 Frontend Developer
+   🌱 Exploring Backend Engineering & Fintech
+   📍 Nigeria
+
 - 📫 How to reach me fateemahbasheer4@gmail.com
 
 <!---

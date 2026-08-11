@@ -1,51 +1,69 @@
-# Hi, I'm Fatimah 👋🏽
+# Hi, I'm Fatimah Bashir 👋🏽
 
-Software Engineer · Frontend Developer · Nigeria 🇳🇬
+### Software Engineer | Frontend Developer
 
-I build clean, responsive web applications and enjoy turning ideas
-into useful products.
+I’m a Software Engineering graduate and frontend developer who enjoys building clean, responsive, and user-friendly web applications.
 
-[https://www.linkedin.com/in/fatimah-bashir-5540972b9]
-
----
-
-### 👩🏽‍💻 About Me
-
-🎓 First Class Software Engineering graduate
-💻 Frontend Developer
-⚛️ React · Next.js · TypeScript
-🌱 Exploring backend development & fintech
+I’m passionate about turning ideas into practical products and continuously growing through real-world projects and collaboration.
 
 ---
 
-### 🛠️ Technologies
+## 👩🏽‍💻 About Me
 
-React   Next.js   TypeScript   JavaScript
-Tailwind CSS   Python   FastAPI   PostgreSQL
-Supabase   Git   GitHub
-
----
-
-### 🚀 Featured Project
-
-[ Open Source Portfolio Website Generator ]
+* 🎓 B.Sc. Software Engineering, Bayero University Kano
+* 🏆 First Class Honors
+* 💻 Frontend Developer
+* 🌱 Currently exploring backend development and fintech
+* 🤝 Open to learning, collaboration, and interesting opportunities
+* 📍 Nigeria
 
 ---
 
-### 🎓 Achievement
+## 🛠️ Tech Stack
 
-🏆 B.Sc. Software Engineering
-   First Class Honors
-   Bayero University Kano
+### Frontend
+
+`React` `Next.js` `TypeScript` `JavaScript` `Tailwind CSS` `HTML` `CSS`
+
+### Backend & Database
+
+`Python` `FastAPI` `Django` `PostgreSQL` `Supabase`
+
+### Tools
+
+`Git` `GitHub` `VS Code` `REST APIs`
 
 ---
 
-### 📊 GitHub
+## 🚀 Featured Project
 
-[GitHub stats]
+### [Open Source Portfolio Website Generator](https://github.com/Reginah1/opensource-portfolio-website-generator)
+
+An open-source portfolio website generator built to make it easier for developers to create their own personal portfolio websites.
+
+**Built with:** HTML • CSS • JavaScript
 
 ---
 
-### 🤝 Let's Connect
+## 🎓 Achievement
 
-LinkedIn · Twitter · Email
+🏆 **First Class Honors**
+
+**B.Sc. Software Engineering**
+Bayero University Kano
+
+---
+
+## 📊 GitHub Activity
+
+![Fatimah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reginah1\&show_icons=true\&hide_border=true\&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Reginah1\&layout=compact\&hide_border=true)
+
+---
+
+## 🤝 Let's Connect
+
+I'm always happy to connect with fellow developers, collaborate on interesting projects, and learn from the community.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fatimah%20Bashir-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/fatimah-bashir-5540972b9)

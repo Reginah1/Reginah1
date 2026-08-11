@@ -56,9 +56,15 @@ Bayero University Kano
 
 ## 📊 GitHub Activity
 
-![Fatimah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reginah1\&show_icons=true\&hide_border=true\&count_private=true)
+## 📊 GitHub Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Reginah1\&layout=compact\&hide_border=true)
+<a href="https://github.com/Reginah1">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Reginah1&show_icons=true&hide_border=true&count_private=true" />
+</a>
+
+<a href="https://github.com/Reginah1">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reginah1&layout=compact&hide_border=true" />
+</a>
 
 ---
 
